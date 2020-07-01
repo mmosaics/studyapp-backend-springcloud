@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+
+#application.properties
+*.properties
+
+#application.yml
+*.yml
+
+*.iml
+
+
